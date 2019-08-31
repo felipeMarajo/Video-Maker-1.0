@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/felipeMarajo/Video-Maker-1.0/issues"
   },
-  "homepage": "https://github.com/felipeMarajo/Video-Maker-1.0#readme"
+  "homepage": "https://github.com/felipeMarajo/Video-Maker-1.0#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
